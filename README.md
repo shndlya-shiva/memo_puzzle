@@ -9,11 +9,11 @@ A visually engaging, grid-based card-matching game built to challenge and improv
 The game loops through three primary stages as illustrated below:
 
 
-| Stage | Description | Visual Interface |
-| :--- | :--- | :--- |
-| **1. Main Menu** | Choose game difficulty and theme parameters. | ![Begin of the game](https://github.com) |
-| **2. Active Gameplay** | Flip cards on the grid to match fruit pairs under time limits. | ![During the play](https://github.com) |
-| **3. Level Cleared** | Performance evaluation with star ratings and statistics. | ![End screen of game](https://github.com) |
+| Stage | Description |
+| :--- | :--- |
+| **1. Main Menu** | Choose game difficulty and theme parameters. |
+| **2. Active Gameplay** | Flip cards on the grid to match fruit pairs under time limits. |
+| **3. Level Cleared** | Performance evaluation with star ratings and statistics. |
 
 ---
 
